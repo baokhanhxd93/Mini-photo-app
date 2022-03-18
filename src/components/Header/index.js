@@ -25,9 +25,9 @@ function Header() {
                         <NavLink
                             exact="true"
                             className={({ isActive }) => "header__link" + (isActive ? '--active' : '')}
-                            to="/photos"
+                            to="/sign-in"
                         >
-                            Redux Project
+                            Sign In
                         </NavLink>
                     </Col>
                 </Row>
