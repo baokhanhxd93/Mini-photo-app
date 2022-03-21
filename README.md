@@ -28,6 +28,7 @@ Xây dựng project mini để ứng dụng kiến thức của Redux vào React
     + Random photo từ `picksum.photos`
 
 # Tổ chức folder
+```
 .
 ├── build
 │   └── static
@@ -64,4 +65,5 @@ Xây dựng project mini để ứng dụng kiến thức của Redux vào React
     │           ├── AddEdit
     │           └── Main
     └── utils
+    ```
 
