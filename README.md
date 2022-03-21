@@ -65,5 +65,3 @@ Xây dựng project mini để ứng dụng kiến thức của Redux vào React
     │           ├── AddEdit
     │           └── Main
     └── utils
-    ```
-
